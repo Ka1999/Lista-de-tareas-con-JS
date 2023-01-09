@@ -1,0 +1,1 @@
+Lista de tarea con JS, almacenando datos en el navegador. Mediante el curso de Alura Latam.
